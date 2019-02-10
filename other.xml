@@ -1,0 +1,19 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.15.1" last-modified="1548766200000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/WebstormProjects/untitled4&#10;C:/Users/Casandra/WebstormProjects/untitled4/public/stylesheet&#10;C:/Users/Casandra/Desktop/Node-starter&#10;C:/Users/Casandra/Desktop&#10;C:/Users/Casandra/Desktop/SmartCam" />
+    <property name="file.gist.reindex.count" value="2131" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
